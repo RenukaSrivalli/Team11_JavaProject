@@ -9,9 +9,9 @@ System.out.println("Sum of "+a+" and "+b +" is "+ c);
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
-System.out.println("Enter the a value");
+System.out.println("Enter the a value?");
 int a=sc.nextInt();
-System.out.println("Enter the b value");
+System.out.println("Enter the b value?");
 int b=sc.nextInt();
 Constructor obj=new Constructor(a,b);
 }
