@@ -2,6 +2,6 @@ class Anitha
 {
 public static void main(String args[])
 {
-System.out.println("lakshmi");
+System.out.println("anitha");
 }
 }
